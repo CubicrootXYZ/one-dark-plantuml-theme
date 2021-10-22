@@ -10,18 +10,20 @@
 ' Foreground
 !$color_bg       = "transparent"
 !$color_bg_light = "#424856"
+!$color_dark = "#111"
 
 ' Background
 !$color_fg       = "#abb2bf"
 
 !$color_red      = "#e06c75"
 !$color_green    = "#98c379"
-!$color_yellow   = "#e5c07b"
+!$color_yellow   = "#b58e00"
 !$color_blue     = "#61afef"
 !$color_purple   = "#c678dd"
 !$color_teal     = "#56b6c2"
 
 !$color_primary  = $color_blue
+!$color_accent1 = "#01397a"
 
 skinparam backgroundColor $color_bg
 
@@ -99,7 +101,7 @@ skinparam {
   '
   ' Arrow
   '
-  ArrowColor $color_primary
+  ArrowColor white
   ' ArrowFontColor
   ' ArrowFontName
   ' ArrowFontSize
@@ -719,7 +721,7 @@ skinparam {
   '
   ' Sequence lifeline
   '
-  SequenceLifeLineBackgroundColor   transparent
+  SequenceLifeLineBackgroundColor   $color_blue
   SequenceLifeLineBorderColor       $color_primary
   ' SequenceLifeLineBorderThickness
 
@@ -735,6 +737,8 @@ skinparam {
   '
   ' SequenceParticipant
   ' SequenceParticipantBorderThickness
+  SequenceParticipantBackgroundColor $color_accent1
+  SequenceParticipantBorderColor $color_accent1
   
   '
   ' Sequence reference
