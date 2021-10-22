@@ -533,7 +533,7 @@ skinparam {
   NoteBackgroundColor   $color_yellow
   NoteBorderColor       $color_bg
   ' NoteBorderThickness
-  NoteFontColor         $color_bg
+  NoteFontColor         $color_bg_light
   ' NoteFontName
   ' NoteFontSize
   ' NoteFontStyle
