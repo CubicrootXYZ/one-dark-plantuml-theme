@@ -9,7 +9,7 @@
 '
 ' Foreground
 !$color_bg       = "transparent"
-!$color_bg_light = "#424856"
+!$color_bg_light = "#111"
 !$color_dark = "#111"
 
 ' Background
