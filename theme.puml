@@ -708,7 +708,7 @@ skinparam {
   SequenceGroupBackgroundColor       $color_bg_light
   ' SequenceGroupBodyBackgroundColor
   SequenceGroupBorderColor           $color_fg
-  ' SequenceGroupBorderThickness
+  SequenceGroupBorderThickness 5
   ' SequenceGroupFontColor
   ' SequenceGroupFontName
   ' SequenceGroupFontSize
@@ -739,6 +739,7 @@ skinparam {
   ' SequenceParticipantBorderThickness
   SequenceParticipantBackgroundColor $color_accent1
   SequenceParticipantBorderColor $color_accent1
+  SequenceParticipantFontColor white
   
   '
   ' Sequence reference
