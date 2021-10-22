@@ -9,8 +9,8 @@
 '
 ' Foreground
 !$color_bg       = "transparent"
-!$color_bg_light = "#111"
-!$color_dark = "#111"
+!$color_bg_light = "#111111"
+!$color_dark = "#111111"
 
 ' Background
 !$color_fg       = "#abb2bf"
