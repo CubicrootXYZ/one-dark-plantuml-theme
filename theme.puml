@@ -179,7 +179,7 @@ skinparam {
   '
   ' Circled character (in class header)
   '
-  CircledCharacterFontColor $color_bg
+  CircledCharacterFontColor $color_bg_light
   ' CircledCharacterFontName
   ' CircledCharacterFontSize
   ' CircledCharacterFontStyle
@@ -531,7 +531,7 @@ skinparam {
   ' Note
   '
   NoteBackgroundColor   $color_yellow
-  NoteBorderColor       $color_bg
+  NoteBorderColor       $color_bg_light
   ' NoteBorderThickness
   NoteFontColor         $color_bg_light
   ' NoteFontName
