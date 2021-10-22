@@ -190,7 +190,7 @@ skinparam {
   '
   ' ClassAttributeFontColor
   ' ClassAttributeFontName
-  ' ClassAttributeFontSize
+  ClassAttributeFontSize 14
   ' ClassAttributeFontStyle
   ' ClassAttributeIconSize
 
@@ -202,7 +202,7 @@ skinparam {
   ' ClassBorderThickness
   ' ClassFontColor
   ' ClassFontName
-  ' ClassFontSize
+  ClassFontSize 17
   ' ClassFontStyle
   
   '
@@ -215,7 +215,7 @@ skinparam {
   '
   ' ClassStereotypeFontColor
   ' ClassStereotypeFontName
-  ' ClassStereotypeFontSize
+  ClassStereotypeFontSize 14
   ' ClassStereotypeFontStyle
 
   '
@@ -664,7 +664,7 @@ skinparam {
   '
   ' ResponseMessageBelowArrow
 
-  ' RoundCorner
+  RoundCorner 20
 
   ' SameClassWidth
   '
