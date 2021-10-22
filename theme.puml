@@ -8,7 +8,7 @@
 ' Colors
 '
 ' Foreground
-!$color_bg       = "#282c34"
+!$color_bg       = "transparent"
 !$color_bg_light = "#424856"
 
 ' Background
@@ -867,7 +867,7 @@ skinparam {
   '
   UsecaseBackgroundColor       $color_bg_light
   UsecaseBorderColor           $color_primary
-  ' UsecaseBorderThickness
+  UsecaseBorderThickness 3
   ' UsecaseFontColor
   ' UsecaseFontName
   ' UsecaseFontSize
