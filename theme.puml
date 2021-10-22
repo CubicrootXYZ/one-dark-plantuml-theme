@@ -590,7 +590,7 @@ skinparam {
   ' Participant
   '
   ParticipantBackgroundColor $color_bg_light
-  ParticipantBorderColor     $color_primary
+  ParticipantBorderColor     $color_bg_light
   ' ParticipantFontColor
   ' ParticipantFontName
   ' ParticipantFontSize
